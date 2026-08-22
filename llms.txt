@@ -1,2 +1,25 @@
 # Goderich Duct Cleaning
-HVAC services in Ontario.
+
+> Goderich Duct Cleaning is a local HVAC company serving Goderich, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 290-9633  |  Email: contact@goderichductcleaning.ca  |  Website: https://goderichductcleaning.ca
+
+## Key pages
+
+- [Home](https://goderichductcleaning.ca/): Goderich Duct Cleaning homepage with service overview and FAQ
+- [About](https://goderichductcleaning.ca/about/): About the company and service area
+- [Contact](https://goderichductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://goderichductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Goderich, Ontario
+- [Dryer Vent Cleaning](https://goderichductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Goderich, Ontario
+- [Furnace & AC Cleaning](https://goderichductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Goderich, Ontario
+- [HRV & Ventilation Cleaning](https://goderichductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Goderich, Ontario
+- [Duct Sanitizing & Deodorizing](https://goderichductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Goderich, Ontario
+- [Duct Sealing & Repair](https://goderichductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Goderich, Ontario
+- [Commercial Duct Cleaning](https://goderichductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Goderich, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Goderich are answered on the homepage.
